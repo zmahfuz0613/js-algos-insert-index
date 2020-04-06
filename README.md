@@ -6,7 +6,7 @@
 
 ### Objectives
 
-- Create a function which takes two arguments, an array (`arr`) and an integer (`num`).
+- Create a function which takes two arguments, an unsorted array (`arr`) and an integer (`num`).
 - Determine the index number of the array at which the `num` should be inserted into the sorted `arr`.
 - The output should return integer representing the index number.
 
