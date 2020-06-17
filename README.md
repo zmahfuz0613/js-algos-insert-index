@@ -4,6 +4,10 @@
 
 "Insert Index"
 
+_Language: JavaScript_
+
+_Difficulty: Easy_
+
 ### Objectives
 
 - Create a function which takes two arguments, an unsorted array (`arr`) and an integer (`num`).
@@ -17,6 +21,4 @@
 - Run `npm run test` or `npm test` to make sure the tests work. (They should fail at first.)
 - Get hacking on the problem, test when you think you've got it, and open a PR when it's done!
 
-### Notes
-
-- Pull requests due by 11pm. Happy hacking!
+Pull requests due by 11pm. Happy hacking!
