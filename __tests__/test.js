@@ -1,7 +1,7 @@
 let algos = require("../getIndexToInsert.js");
 
 //INSERT INDEX
-
+// work on progress
 test("find the correct index to insert the given number", () => {
   expect(algos.getIndexToInsert([40, 60, 5], 6)).toBe(1);
   expect(algos.getIndexToInsert([40, 60, 5], -1)).toBe(0);
